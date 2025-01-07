@@ -6,8 +6,7 @@
 ---
 
 #### **Processo:**
-![image](https://github.com/user-attachments/assets/75ed1f75-8bff-407e-be56-b685ef4229eb)
-
+![alt text](<RF001  Registro.svg>)
 
 ---
 
